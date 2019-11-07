@@ -1,0 +1,2 @@
+# SORTER
+SORTER – A playbook for Cyber Security Incident Management, 2019. This project is now completed. The focus is on the use of intelligent and adaptive machine learning techniques to develop a comprehensive and adaptive playbook to manage cyber incidents, offering a cross-sectorial, process driven approach, lexicon-based equivalence mapping, sentiment analysis, semantic similarity classification to existing cyber security incident vocabulary and taxonomy. The project sponsors do not wish for it to be made publicly available yet.
