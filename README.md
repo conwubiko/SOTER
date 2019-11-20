@@ -23,3 +23,5 @@ As a SOC Analyst, I will use this lexicon for cyber incident resporting, handlin
 ## Defence
 
 
+## General Users
+
